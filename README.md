@@ -1,2 +1,2 @@
-# GoertiuCalculator
+# Carboncalculator
 This project calculates goertius
